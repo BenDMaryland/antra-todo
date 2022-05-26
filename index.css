@@ -1,11 +1,10 @@
 section {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-
+    grid-template-columns: repeat(2, 1fr);
 }
-.card{
+.card {
     border: solid 1px #8d8d8d;
     padding: .2rem;
     margin: .5rem;
-background-color: #d9d9d9;
+    background-color: #ffffff00;
 }
